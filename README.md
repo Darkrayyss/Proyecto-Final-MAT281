@@ -26,3 +26,5 @@
 - [2] Artículo "Diagnosing Alzheimer’s disease from online handwriting: A novel dataset and performance benchmarking" en Engineering Applications of Artificial Intelligence (2022).
 
 Este resumen proporciona una visión general de las características y el propósito del conjunto de datos DARWIN.
+
+Se agradece al ayudante del ramo [Alejandro Villazon]([https://github.com/Diego-Astaburuaga/Financial-Math/invitations](https://github.com/AlejandroVillazonG)) por el constante apoyo.
